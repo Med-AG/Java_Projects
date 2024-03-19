@@ -1,0 +1,38 @@
+Voiture 1: 
+Matricule: 14328-A-33
+Marque: mercedeces
+Carburant: gazoil------------------------------
+Voiture 2: 
+Matricule: 47021-D-70
+Marque: Tiguan
+Carburant: essence------------------------------
+Voiture 1: 
+Matricule: 19880-T-36
+Marque: suziki
+Carburant: gazoil
+------------------------------
+Voiture 2: 
+Matricule: ff
+Marque: dd
+Carburant: ss
+------------------------------
+Voiture 1: 
+Matricule: 77880-Fes-41
+Marque: dacia
+Carburant: essence
+------------------------------
+Voiture 2: 
+Matricule: 45127-L-68
+Marque: nissan
+Carburant: gazoil
+------------------------------
+Voiture 1: 
+Matricule: 55812-S-71
+Marque: fiat
+Carburant: essence
+------------------------------
+Voiture 2: 
+Matricule: 
+Marque: 
+Carburant: 
+------------------------------
